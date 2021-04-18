@@ -84,5 +84,5 @@ print(shop.discount_code(20))
 
 
 
-if __name__ == '__main__':
-    unittest.main()
+# if __name__ == '__main__':
+#     unittest.main()
